@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Senior Project: Phishing Detector
 
 This project is a phishing detection tool designed to analyze URLs and identify potential phishing websites.
@@ -20,3 +21,7 @@ Technologies:
 
 Group Members:
 - Chidera Okafor, Javen Encabo, Ralp Colmenar, Jayden Diaz
+=======
+# PhishingDetector
+Email Phishing Detector
+>>>>>>> a862f866f5ae23e0164a5714cdd8657f0889a2c2
