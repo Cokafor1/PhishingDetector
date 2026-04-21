@@ -5,7 +5,7 @@ require('dotenv').config();
 
 const app = express();
 app.use(cors({
-  origin: ['https://phishingdetector-production-0c08.up.railway.app/', 'http://localhost:3000']
+  origin: ['https://phishingdetector-production-0c08.up.railway.app', 'http://localhost:3000']
 }));
 app.use(express.json({ limit: '2mb' }));
 app.use(express.static('public'));
